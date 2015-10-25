@@ -1,2 +1,2 @@
-1、首次添加的内容
-2、新添加的内容
+git is free software distributed 
+git is free
